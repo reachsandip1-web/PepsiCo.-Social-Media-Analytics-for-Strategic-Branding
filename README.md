@@ -22,6 +22,8 @@ The analysis was broken down into six core phases to extract actionable insights
 
 6. **Follower Retention & Audience Loyalty:** * Examined follower growth trends, repeat interactions, and audience behavior to gauge long-term brand loyalty rather than just short-term campaign spikes.
 
+7. 📊 [View the Interactive Dashboard](https://github.com/reachsandip1-web/PepsiCo.-Social-Media-Analytics-for-Strategic-Branding/blob/main/DashBoard.xlsx)
+
 ## 💡 Key Insights & Recommendations
 * *Platform Dominance: Facebook emerged as the top-performing channel overall, capturing the highest aggregate engagement volume across all measured platforms.
 
