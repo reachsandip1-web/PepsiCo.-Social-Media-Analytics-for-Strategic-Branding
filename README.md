@@ -4,7 +4,7 @@ To consolidate, clean, and analyze a fragmented raw dataset to provide a unified
 ## 🛠️ Tools Used
 * **Microsoft Excel:** Used for end-to-end data processing, analysis, and insight generation.
 
-* ## 🛠️ Raw Data Used
+* ## 💾 Raw Data Used
 📁 [Access the Raw Dataset Here](https://github.com/reachsandip1-web/PepsiCo.-Social-Media-Analytics-for-Strategic-Branding/blob/main/Social_Media_Analytics_Raw_Dataset.xlsx)
   
 ## ⚙️ Methodology & Tasks Performed
