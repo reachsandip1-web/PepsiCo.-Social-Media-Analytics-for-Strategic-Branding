@@ -1,8 +1,3 @@
-## 📖 Project Overview
-You are hired as a Data Analyst by PepsiCo, a global leader in the food and beverage industry with a robust presence across digital platforms like Instagram, Twitter, Facebook, and YouTube. Over the past year, PepsiCo has intensified its digital marketing efforts, launching a variety of content-driven campaigns to enhance consumer engagement, expand its online reach, and maximize returns from digital advertising investments.
-
-However, with the expansion across platforms and diverse campaign strategies, the marketing team is struggling to align efforts with measurable business outcomes. They lack a unified view of cross-platform campaign performance, ROI, and audience engagement.
-
 ## 🎯 Objective
 To consolidate, clean, and analyze a fragmented raw dataset to provide a unified view of PepsiCo's digital marketing performance, enabling data-driven decisions for future campaign strategies.
 
